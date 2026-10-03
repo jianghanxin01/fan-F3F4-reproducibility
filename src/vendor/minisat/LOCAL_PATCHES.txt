@@ -1,0 +1,17 @@
+MiniSat upstream: commit 37dc6c67e2af26379d88ce349eb9c4c6160e8543.
+
+Local changes needed for a C++17 core-library build on Windows, with no
+compressed-DIMACS input support and no zlib dependency:
+
+1. minisat/utils/ParseUtils.h: MINISAT_NO_ZLIB conditionally excludes the
+   zlib header, StreamBuffer class, and its isEof overload. String parsing
+   used by Options.h remains available. Compile with MINISAT_NO_ZLIB.
+2. minisat/utils/System.cc: give non-Linux memUsedPeak implementations the
+   bool argument already declared in System.h.
+3. minisat/core/Solver.cc and minisat/utils/Options.h: add whitespace around
+   PRIu64 / PRIi64 format macros, required for standard C++11 and later.
+4. minisat/core/SolverTypes.h: put mkLit's default argument on a namespace
+   forward declaration rather than its non-defining friend declaration.
+   This declaration-only fix lets conforming GCC and Clang accept the header.
+
+No SAT search or clause semantics were modified.

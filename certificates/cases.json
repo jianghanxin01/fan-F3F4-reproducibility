@@ -1,0 +1,1122 @@
+[
+  {
+    "case_id": 2050333,
+    "left_index": 80,
+    "right_index": 30592,
+    "left_graph6": "G??Fvg",
+    "right_graph6": "H?bFB_{",
+    "left_red": [
+      192,
+      192,
+      192,
+      192,
+      64,
+      128,
+      31,
+      47
+    ],
+    "right_red": [
+      112,
+      224,
+      448,
+      384,
+      257,
+      259,
+      7,
+      14,
+      60
+    ]
+  },
+  {
+    "case_id": 2050335,
+    "left_index": 80,
+    "right_index": 30887,
+    "left_graph6": "G??Fvg",
+    "right_graph6": "H?bF@pw",
+    "left_red": [
+      192,
+      192,
+      192,
+      192,
+      64,
+      128,
+      31,
+      47
+    ],
+    "right_red": [
+      112,
+      352,
+      448,
+      384,
+      385,
+      3,
+      7,
+      28,
+      30
+    ]
+  },
+  {
+    "case_id": 2050339,
+    "left_index": 80,
+    "right_index": 33154,
+    "left_graph6": "G??Fvg",
+    "right_graph6": "H?bB`pw",
+    "left_red": [
+      192,
+      192,
+      192,
+      192,
+      64,
+      128,
+      31,
+      47
+    ],
+    "right_red": [
+      48,
+      352,
+      448,
+      448,
+      385,
+      3,
+      14,
+      28,
+      30
+    ]
+  },
+  {
+    "case_id": 2050340,
+    "left_index": 80,
+    "right_index": 37913,
+    "left_graph6": "G??Fvg",
+    "right_graph6": "H?bBT`w",
+    "left_red": [
+      192,
+      192,
+      192,
+      192,
+      64,
+      128,
+      31,
+      47
+    ],
+    "right_red": [
+      176,
+      352,
+      448,
+      384,
+      321,
+      3,
+      22,
+      13,
+      30
+    ]
+  },
+  {
+    "case_id": 2050342,
+    "left_index": 80,
+    "right_index": 38012,
+    "left_graph6": "G??Fvg",
+    "right_graph6": "H?bBR_{",
+    "left_red": [
+      192,
+      192,
+      192,
+      192,
+      64,
+      128,
+      31,
+      47
+    ],
+    "right_red": [
+      48,
+      224,
+      448,
+      384,
+      321,
+      259,
+      22,
+      14,
+      60
+    ]
+  },
+  {
+    "case_id": 2050346,
+    "left_index": 80,
+    "right_index": 45740,
+    "left_graph6": "G??Fvg",
+    "right_graph6": "H?`e`ro",
+    "left_red": [
+      192,
+      192,
+      192,
+      192,
+      64,
+      128,
+      31,
+      47
+    ],
+    "right_red": [
+      336,
+      352,
+      416,
+      448,
+      129,
+      6,
+      11,
+      28,
+      15
+    ]
+  },
+  {
+    "case_id": 2050349,
+    "left_index": 80,
+    "right_index": 66025,
+    "left_graph6": "G??Fvg",
+    "right_graph6": "H?r@d_{",
+    "left_red": [
+      192,
+      192,
+      192,
+      192,
+      64,
+      128,
+      31,
+      47
+    ],
+    "right_red": [
+      176,
+      48,
+      448,
+      448,
+      259,
+      259,
+      12,
+      13,
+      60
+    ]
+  },
+  {
+    "case_id": 2050350,
+    "left_index": 80,
+    "right_index": 69502,
+    "left_graph6": "G??Fvg",
+    "right_graph6": "H?qa`ro",
+    "left_red": [
+      192,
+      192,
+      192,
+      192,
+      64,
+      128,
+      31,
+      47
+    ],
+    "right_red": [
+      304,
+      336,
+      416,
+      448,
+      131,
+      5,
+      10,
+      28,
+      15
+    ]
+  },
+  {
+    "case_id": 2058631,
+    "left_index": 80,
+    "right_index": 30580,
+    "left_graph6": "G??Fvg",
+    "right_graph6": "H?bFB_w",
+    "left_red": [
+      192,
+      192,
+      192,
+      192,
+      64,
+      128,
+      31,
+      47
+    ],
+    "right_red": [
+      112,
+      224,
+      448,
+      384,
+      257,
+      3,
+      7,
+      14,
+      28
+    ]
+  },
+  {
+    "case_id": 2058632,
+    "left_index": 80,
+    "right_index": 30727,
+    "left_graph6": "G??Fvg",
+    "right_graph6": "H?bFAow",
+    "left_red": [
+      192,
+      192,
+      192,
+      192,
+      64,
+      128,
+      31,
+      47
+    ],
+    "right_red": [
+      112,
+      224,
+      320,
+      384,
+      385,
+      3,
+      7,
+      26,
+      28
+    ]
+  },
+  {
+    "case_id": 2058635,
+    "left_index": 80,
+    "right_index": 42513,
+    "left_graph6": "G??Fvg",
+    "right_graph6": "H?`fE_w",
+    "left_red": [
+      192,
+      192,
+      192,
+      192,
+      64,
+      128,
+      31,
+      47
+    ],
+    "right_red": [
+      208,
+      224,
+      352,
+      384,
+      257,
+      6,
+      7,
+      11,
+      28
+    ]
+  },
+  {
+    "case_id": 2058636,
+    "left_index": 80,
+    "right_index": 42846,
+    "left_graph6": "G??Fvg",
+    "right_graph6": "H?`fAow",
+    "left_red": [
+      192,
+      192,
+      192,
+      192,
+      64,
+      128,
+      31,
+      47
+    ],
+    "right_red": [
+      80,
+      224,
+      352,
+      384,
+      385,
+      6,
+      7,
+      26,
+      28
+    ]
+  },
+  {
+    "case_id": 2058708,
+    "left_index": 80,
+    "right_index": 47671,
+    "left_graph6": "G??Fvg",
+    "right_graph6": "H?`bcjo",
+    "left_red": [
+      192,
+      192,
+      192,
+      192,
+      64,
+      128,
+      31,
+      47
+    ],
+    "right_red": [
+      400,
+      352,
+      352,
+      448,
+      1,
+      134,
+      14,
+      41,
+      15
+    ]
+  },
+  {
+    "case_id": 2058788,
+    "left_index": 80,
+    "right_index": 30740,
+    "left_graph6": "G??Fvg",
+    "right_graph6": "H?bFAo[",
+    "left_red": [
+      192,
+      192,
+      192,
+      192,
+      64,
+      128,
+      31,
+      47
+    ],
+    "right_red": [
+      112,
+      224,
+      64,
+      384,
+      385,
+      259,
+      7,
+      26,
+      56
+    ]
+  },
+  {
+    "case_id": 2059153,
+    "left_index": 80,
+    "right_index": 30885,
+    "left_graph6": "G??Fvg",
+    "right_graph6": "H?bF@ow",
+    "left_red": [
+      192,
+      192,
+      192,
+      192,
+      64,
+      128,
+      31,
+      47
+    ],
+    "right_red": [
+      112,
+      96,
+      448,
+      384,
+      385,
+      3,
+      7,
+      28,
+      28
+    ]
+  },
+  {
+    "case_id": 7811134,
+    "left_index": 280,
+    "right_index": 30744,
+    "left_graph6": "G?AFrw",
+    "right_graph6": "H?bFAo{",
+    "left_red": [
+      96,
+      192,
+      192,
+      192,
+      192,
+      129,
+      31,
+      62
+    ],
+    "right_red": [
+      112,
+      224,
+      320,
+      384,
+      385,
+      259,
+      7,
+      26,
+      60
+    ]
+  },
+  {
+    "case_id": 7811135,
+    "left_index": 280,
+    "right_index": 30887,
+    "left_graph6": "G?AFrw",
+    "right_graph6": "H?bF@pw",
+    "left_red": [
+      96,
+      192,
+      192,
+      192,
+      192,
+      129,
+      31,
+      62
+    ],
+    "right_red": [
+      112,
+      352,
+      448,
+      384,
+      385,
+      3,
+      7,
+      28,
+      30
+    ]
+  },
+  {
+    "case_id": 7811138,
+    "left_index": 280,
+    "right_index": 33151,
+    "left_graph6": "G?AFrw",
+    "right_graph6": "H?bB`ro",
+    "left_red": [
+      96,
+      192,
+      192,
+      192,
+      192,
+      129,
+      31,
+      62
+    ],
+    "right_red": [
+      304,
+      352,
+      448,
+      448,
+      129,
+      3,
+      14,
+      28,
+      15
+    ]
+  },
+  {
+    "case_id": 7811139,
+    "left_index": 280,
+    "right_index": 33154,
+    "left_graph6": "G?AFrw",
+    "right_graph6": "H?bB`pw",
+    "left_red": [
+      96,
+      192,
+      192,
+      192,
+      192,
+      129,
+      31,
+      62
+    ],
+    "right_red": [
+      48,
+      352,
+      448,
+      448,
+      385,
+      3,
+      14,
+      28,
+      30
+    ]
+  },
+  {
+    "case_id": 7811140,
+    "left_index": 280,
+    "right_index": 37913,
+    "left_graph6": "G?AFrw",
+    "right_graph6": "H?bBT`w",
+    "left_red": [
+      96,
+      192,
+      192,
+      192,
+      192,
+      129,
+      31,
+      62
+    ],
+    "right_red": [
+      176,
+      352,
+      448,
+      384,
+      321,
+      3,
+      22,
+      13,
+      30
+    ]
+  },
+  {
+    "case_id": 7811142,
+    "left_index": 280,
+    "right_index": 38012,
+    "left_graph6": "G?AFrw",
+    "right_graph6": "H?bBR_{",
+    "left_red": [
+      96,
+      192,
+      192,
+      192,
+      192,
+      129,
+      31,
+      62
+    ],
+    "right_red": [
+      48,
+      224,
+      448,
+      384,
+      321,
+      259,
+      22,
+      14,
+      60
+    ]
+  },
+  {
+    "case_id": 7811146,
+    "left_index": 280,
+    "right_index": 45740,
+    "left_graph6": "G?AFrw",
+    "right_graph6": "H?`e`ro",
+    "left_red": [
+      96,
+      192,
+      192,
+      192,
+      192,
+      129,
+      31,
+      62
+    ],
+    "right_red": [
+      336,
+      352,
+      416,
+      448,
+      129,
+      6,
+      11,
+      28,
+      15
+    ]
+  },
+  {
+    "case_id": 7811148,
+    "left_index": 280,
+    "right_index": 65954,
+    "left_graph6": "G?AFrw",
+    "right_graph6": "H?r@f?{",
+    "left_red": [
+      96,
+      192,
+      192,
+      192,
+      192,
+      129,
+      31,
+      62
+    ],
+    "right_red": [
+      176,
+      176,
+      448,
+      320,
+      259,
+      259,
+      12,
+      7,
+      60
+    ]
+  },
+  {
+    "case_id": 7811149,
+    "left_index": 280,
+    "right_index": 66025,
+    "left_graph6": "G?AFrw",
+    "right_graph6": "H?r@d_{",
+    "left_red": [
+      96,
+      192,
+      192,
+      192,
+      192,
+      129,
+      31,
+      62
+    ],
+    "right_red": [
+      176,
+      48,
+      448,
+      448,
+      259,
+      259,
+      12,
+      13,
+      60
+    ]
+  },
+  {
+    "case_id": 7811150,
+    "left_index": 280,
+    "right_index": 69502,
+    "left_graph6": "G?AFrw",
+    "right_graph6": "H?qa`ro",
+    "left_red": [
+      96,
+      192,
+      192,
+      192,
+      192,
+      129,
+      31,
+      62
+    ],
+    "right_red": [
+      304,
+      336,
+      416,
+      448,
+      131,
+      5,
+      10,
+      28,
+      15
+    ]
+  },
+  {
+    "case_id": 7819431,
+    "left_index": 280,
+    "right_index": 30580,
+    "left_graph6": "G?AFrw",
+    "right_graph6": "H?bFB_w",
+    "left_red": [
+      96,
+      192,
+      192,
+      192,
+      192,
+      129,
+      31,
+      62
+    ],
+    "right_red": [
+      112,
+      224,
+      448,
+      384,
+      257,
+      3,
+      7,
+      14,
+      28
+    ]
+  },
+  {
+    "case_id": 7819432,
+    "left_index": 280,
+    "right_index": 30727,
+    "left_graph6": "G?AFrw",
+    "right_graph6": "H?bFAow",
+    "left_red": [
+      96,
+      192,
+      192,
+      192,
+      192,
+      129,
+      31,
+      62
+    ],
+    "right_red": [
+      112,
+      224,
+      320,
+      384,
+      385,
+      3,
+      7,
+      26,
+      28
+    ]
+  },
+  {
+    "case_id": 7819434,
+    "left_index": 280,
+    "right_index": 38219,
+    "left_graph6": "G?AFrw",
+    "right_graph6": "H?bBQqo",
+    "left_red": [
+      96,
+      192,
+      192,
+      192,
+      192,
+      129,
+      31,
+      62
+    ],
+    "right_red": [
+      304,
+      224,
+      320,
+      384,
+      193,
+      3,
+      22,
+      26,
+      13
+    ]
+  },
+  {
+    "case_id": 7819435,
+    "left_index": 280,
+    "right_index": 42513,
+    "left_graph6": "G?AFrw",
+    "right_graph6": "H?`fE_w",
+    "left_red": [
+      96,
+      192,
+      192,
+      192,
+      192,
+      129,
+      31,
+      62
+    ],
+    "right_red": [
+      208,
+      224,
+      352,
+      384,
+      257,
+      6,
+      7,
+      11,
+      28
+    ]
+  },
+  {
+    "case_id": 7819436,
+    "left_index": 280,
+    "right_index": 42846,
+    "left_graph6": "G?AFrw",
+    "right_graph6": "H?`fAow",
+    "left_red": [
+      96,
+      192,
+      192,
+      192,
+      192,
+      129,
+      31,
+      62
+    ],
+    "right_red": [
+      80,
+      224,
+      352,
+      384,
+      385,
+      6,
+      7,
+      26,
+      28
+    ]
+  },
+  {
+    "case_id": 7819438,
+    "left_index": 280,
+    "right_index": 68564,
+    "left_graph6": "G?AFrw",
+    "right_graph6": "H?qb@pS",
+    "left_red": [
+      96,
+      192,
+      192,
+      192,
+      192,
+      129,
+      31,
+      62
+    ],
+    "right_red": [
+      48,
+      336,
+      224,
+      384,
+      131,
+      261,
+      6,
+      28,
+      42
+    ]
+  },
+  {
+    "case_id": 7819953,
+    "left_index": 280,
+    "right_index": 30885,
+    "left_graph6": "G?AFrw",
+    "right_graph6": "H?bF@ow",
+    "left_red": [
+      96,
+      192,
+      192,
+      192,
+      192,
+      129,
+      31,
+      62
+    ],
+    "right_red": [
+      112,
+      96,
+      448,
+      384,
+      385,
+      3,
+      7,
+      28,
+      28
+    ]
+  },
+  {
+    "case_id": 7819955,
+    "left_index": 280,
+    "right_index": 37999,
+    "left_graph6": "G?AFrw",
+    "right_graph6": "H?bBR_w",
+    "left_red": [
+      96,
+      192,
+      192,
+      192,
+      192,
+      129,
+      31,
+      62
+    ],
+    "right_red": [
+      48,
+      224,
+      448,
+      384,
+      321,
+      3,
+      22,
+      14,
+      28
+    ]
+  },
+  {
+    "case_id": 7819958,
+    "left_index": 280,
+    "right_index": 68352,
+    "left_graph6": "G?AFrw",
+    "right_graph6": "H?qbE_[",
+    "left_red": [
+      96,
+      192,
+      192,
+      192,
+      192,
+      129,
+      31,
+      62
+    ],
+    "right_red": [
+      176,
+      208,
+      96,
+      384,
+      259,
+      261,
+      6,
+      11,
+      56
+    ]
+  },
+  {
+    "case_id": 51996400,
+    "left_index": 3477,
+    "right_index": 1235,
+    "left_graph6": "G?qbeo",
+    "right_graph6": "H??Fvjk",
+    "left_red": [
+      176,
+      208,
+      96,
+      192,
+      131,
+      5,
+      14,
+      27
+    ],
+    "right_red": [
+      448,
+      448,
+      448,
+      192,
+      320,
+      384,
+      31,
+      47,
+      55
+    ]
+  },
+  {
+    "case_id": 64095209,
+    "left_index": 4228,
+    "right_index": 1235,
+    "left_graph6": "G?quR_",
+    "right_graph6": "H??Fvjk",
+    "left_red": [
+      112,
+      208,
+      160,
+      160,
+      67,
+      13,
+      19,
+      14
+    ],
+    "right_red": [
+      448,
+      448,
+      448,
+      192,
+      320,
+      384,
+      31,
+      47,
+      55
+    ]
+  },
+  {
+    "case_id": 69103064,
+    "left_index": 4877,
+    "right_index": 68943,
+    "left_graph6": "G?zTfO",
+    "right_graph6": "H?qf@pS",
+    "left_red": [
+      240,
+      176,
+      208,
+      96,
+      135,
+      11,
+      13,
+      23
+    ],
+    "right_red": [
+      112,
+      336,
+      224,
+      384,
+      131,
+      261,
+      7,
+      28,
+      42
+    ]
+  },
+  {
+    "case_id": 69257548,
+    "left_index": 4893,
+    "right_index": 68943,
+    "left_graph6": "G?zVV_",
+    "right_graph6": "H?qf@pS",
+    "left_red": [
+      240,
+      240,
+      208,
+      160,
+      71,
+      11,
+      23,
+      15
+    ],
+    "right_red": [
+      112,
+      336,
+      224,
+      384,
+      131,
+      261,
+      7,
+      28,
+      42
+    ]
+  },
+  {
+    "case_id": 71867158,
+    "left_index": 5479,
+    "right_index": 1235,
+    "left_graph6": "GCR`v_",
+    "right_graph6": "H??Fvjk",
+    "left_red": [
+      168,
+      176,
+      224,
+      193,
+      66,
+      7,
+      28,
+      15
+    ],
+    "right_red": [
+      448,
+      448,
+      448,
+      192,
+      320,
+      384,
+      31,
+      47,
+      55
+    ]
+  },
+  {
+    "case_id": 82561944,
+    "left_index": 6899,
+    "right_index": 30887,
+    "left_graph6": "GCqpug",
+    "right_graph6": "H?bF@pw",
+    "left_red": [
+      184,
+      144,
+      96,
+      225,
+      67,
+      141,
+      28,
+      43
+    ],
+    "right_red": [
+      112,
+      352,
+      448,
+      384,
+      385,
+      3,
+      7,
+      28,
+      30
+    ]
+  }
+]

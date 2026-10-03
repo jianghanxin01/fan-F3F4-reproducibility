@@ -1,0 +1,22 @@
+{
+  "catalog_fnv64": "c85356b27cb99c84",
+  "catalog_sha256": "f0e2cb9eeb3ace7c737d55cd001996d3dd010e98eb56b1ed94667a2d0aada050",
+  "chunk_size": 500,
+  "dataset": "e38c0723b6a3be74",
+  "engine": "fan17-cpp-1",
+  "left_graph6_fnv64": "b9004989289e8545",
+  "left_graph6_sha256": "453ae57ae9cb14d6cdc10c17d5735c0f4ad9a783aa1f45dddc122e96afcaa419",
+  "profile_counts": [
+    6860,
+    60041
+  ],
+  "right_graph6_fnv64": "d09ff1e67238a810",
+  "right_graph6_sha256": "0832d8a3188519b1c717b84d209c08a3487ba6ac1ae1f0831bfeb59fe50f2cd3",
+  "seed_counts": [
+    8812,
+    115174
+  ],
+  "source_manifest_id": "d5ad5bbd4b93f03e41cefb242c69f6f19db05d30b1729f607f84844430f1277c",
+  "task_count": 176590,
+  "total_pairs": 88294674
+}

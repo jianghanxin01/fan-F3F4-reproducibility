@@ -1,0 +1,4 @@
+igraph==1.0.0
+numpy==2.3.5
+texttable==1.7.0
+networkx==3.7
