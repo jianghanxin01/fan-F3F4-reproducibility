@@ -49,3 +49,7 @@ research logs, binaries or intermediate experiments are included.
 Original third-party licences: src/vendor/minisat/LICENSE and
 src/vendor/nlohmann/LICENSE.MIT. Upstream identities and portability patches
 are recorded in src/THIRD_PARTY_NOTICES.txt and src/vendor/minisat/.
+
+ZENODO ARCHIVE
+https://doi.org/10.5281/zenodo.23119016
+Please cite the Zenodo archive when using this reproducibility package.
